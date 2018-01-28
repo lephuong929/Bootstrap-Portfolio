@@ -1,0 +1,81 @@
+#navbar-title {
+	background-color: #4aaaa5;
+	color: white;
+	padding: auto;
+	font-size: 24px;
+	padding: auto;
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	text-align: center;
+	margin-left: 0px;
+	color: white;
+}
+
+.navbar-header {
+	background-color: #ffffff;
+	border: #cccccc;
+}
+
+
+
+#footer {
+	background-color: #666666;
+	color: white;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	padding: 5px;
+}
+
+h1, h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+body {
+	background-color: #ffffff;
+	border-color: #dddddd;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	height: 1000px;
+}
+
+#about-me {
+	background-color: #ffffff;
+	padding-bottom: 20px;
+	margin-bottom: 50px;
+}
+
+#connect-me {
+	background-color: #ffffff;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+#name {
+	width: 100%;
+}
+
+#email {
+	width: 100%;
+}
+
+#message {
+	width: 100%;
+}
+
+#submit-button {
+	background-color: #4aaaa5;
+	color: white; 
+}
+
+.portfolio-description {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+	padding-top: 10px;
+}
