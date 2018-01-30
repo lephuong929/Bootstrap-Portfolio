@@ -73,9 +73,12 @@ body {
 .portfolio-description {
     position: absolute;
     bottom: 10px;
-    width: 100%;
+    width: 92%;
     background-color: #4aaaa5;
     color: white;
     text-align: center;
 	padding-top: 10px;
+	padding-right: 20px;
 }
+
+
